@@ -1,0 +1,2 @@
+# food-recognise
+利用python和百度图像识别的接口做的一个简单的菜品及人脸识别
